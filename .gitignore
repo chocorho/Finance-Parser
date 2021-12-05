@@ -1,3 +1,10 @@
+
+# config file (contains acct numbers!!)
+config.txt
+
+# Monthly bank statements (for testing & production)
+*.csv
+
 # Compiled class file
 *.class
 
